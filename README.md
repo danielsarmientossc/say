@@ -2,7 +2,7 @@
 ### Usage
 Initialize your module
 
-```go mod init example.com/my-golib-demo```
+```go mod init github.com/danielsarmientossc/say```
 
 ### Get the say module
 Note that you need to include the v in the version tag.
